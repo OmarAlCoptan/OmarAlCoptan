@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omaralcoptan&show_icons=true&locale=en" alt="omaralcoptan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omaralcoptan&" alt="omaralcoptan" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=OmarAlCoptan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
