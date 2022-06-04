@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaralcoptan&label=Profile%20views&color=0e75b6&style=flat" alt="omaralcoptan" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://t.me/coptan_s_projects](https://t.me/coptan_s_projects)
+- 👨‍💻 All of my builds are available at <a href="https://t.me/coptan_s_projects">Support group</a>
 
-- 📫 How to reach me **https://t.me/AlCoptan99**
+- 📫 How to reach me <a href="https://t.me/AlCoptan99">Telegram</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
